@@ -123,7 +123,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙋‍♀️ Author
 
 **Varsha Sri Palakurthi**  
-📫 [GitHub](https://github.com/varshasric4) | [LinkedIn](https://linkedin.com/in/varshasrip)
+📫 [GitHub](https://github.com/varshasric4) | [LinkedIn](https://www.linkedin.com/in/palakurthi-varsha-sri-091323259/)
 
 ---
 
