@@ -123,7 +123,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙋‍♀️ Author
 
 **Vennela Polapalli**  
-📫 [GitHub](https://github.com/varshasric4) | [LinkedIn](https://www.linkedin.com/in/vennela-polapalli-925104259/)
+📫 [GitHub](https://github.com/PolapalliVennela) | [LinkedIn](https://www.linkedin.com/in/vennela-polapalli-925104259/)
 
 ---
 
