@@ -122,8 +122,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♀️ Author
 
-**Varsha Sri Palakurthi**  
-📫 [GitHub](https://github.com/varshasric4) | [LinkedIn](https://www.linkedin.com/in/palakurthi-varsha-sri-091323259/)
+**Vennela Polapalli**  
+📫 [GitHub](https://github.com/varshasric4) | [LinkedIn](https://www.linkedin.com/in/vennela-polapalli-925104259/)
 
 ---
 
